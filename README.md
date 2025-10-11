@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm William Evans</h1>
+<h1 align="left">Hey there 👋, I'm William Evans</h1>
 
 <p align="center">
   <img src="https://github.com/willseyyyy/willseyyyy/blob/78a6f447ea8ec5c2ca589ca41486d0312e6181e6/bhc.jpg" alt="William Evans Banner" width="800">
@@ -58,13 +58,13 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ---
 
-### 📊 My GitHub Overview
+### 🏆 GitHub Highlights
 
-
-  <img src="https://github.com/willseyyyy/willseyyyy/blob/main/b459501e-f6c5-4a67-b4d5-d606c3e5ec32.png" alt="GitHub Contribution Streak" width="45%" />
-  <img src="https://github.com/willseyyyy/willseyyyy/blob/main/9f4db76e-e1d6-4a70-8238-601615ebd791.png" alt="William Evans GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=willseyyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=willseyyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ---
 
