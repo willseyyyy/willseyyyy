@@ -58,13 +58,14 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ---
 
-### 🏆 GitHub Highlights
+### 📊 My GitHub Overview
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=willseyyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=willseyyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github.com/willseyyyy/willseyyyy/blob/main/b459501e-f6c5-4a67-b4d5-d606c3e5ec32.png" alt="GitHub Contribution Streak" width="45%" />
+  <img src="https://github.com/willseyyyy/willseyyyy/blob/main/9f4db76e-e1d6-4a70-8238-601615ebd791.png" alt="William Evans GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</p>
 
 ---
 
