@@ -1,8 +1,10 @@
-<h1>Hey there 👋, I'm William Evans</h1>
+<h1 align="left">Hello, I'm William Evans</h1>
 
-<img src="https://github.com/willseyyyy/willseyyyy/blob/78a6f447ea8ec5c2ca589ca41486d0312e6181e6/bhc.jpg" alt="William Evans Banner" width="800">
+<p align="center">
+  <img src="https://github.com/willseyyyy/willseyyyy/blob/78a6f447ea8ec5c2ca589ca41486d0312e6181e6/bhc.jpg" alt="William Evans Banner" width="800">
+</p>
 
-<h3>
+<h3 align="center">
 💻 Computer Science Undergrad (IoT) | ☁️ Aspiring Cloud Developer & Solutions Architect | 🤖 Gen AI & Agentic AI Enthusiast | 🏋️‍♂️ Fitness & Tech Driven
 </h3>
 
@@ -84,7 +86,9 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 > “Discipline and curiosity are the twin engines of mastery — one fuels progress, the other direction.”
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpdGpvNXptNXZ2OGk2dG0yZDczaDc4c3VraTVnc2lvNnA1aDk2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJZdOtltegO76/giphy.gif" width="400" alt="Coding animation">
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpdGpvNXptNXZ2OGk2dG0yZDczaDc4c3VraTVnc2lvNnA1aDk2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJZdOtltegO76/giphy.gif" width="400" alt="Coding animation">
+</p>
 
 ---
 
