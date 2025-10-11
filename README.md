@@ -5,6 +5,9 @@
 
 ---
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpdGpvNXptNXZ2OGk2dG0yZDczaDc4c3VraTVnc2lvNnA1aDk2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJZdOtltegO76/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=willseyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -91,4 +94,3 @@
 <p align="center">
   <i>“Building scalable systems. Exploring smart automation. Lifting both code and weights 💪.”</i>
 </p>
-
