@@ -24,10 +24,10 @@ I’m a **Computer Science Engineering undergrad** at *Shiv Nadar University, Ch
 My interests lie in building **intelligent systems**, **scalable cloud applications**, and exploring the possibilities of **Generative & Agentic AI**.  
 Outside tech, I’m dedicated to **fitness and personal growth**, believing that discipline in one area strengthens all others. �
 
-- 🌱 Currently learning: **Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
-- 👯 Open to collaborations on **AI + Cloud + IoT projects**  
-- 🤝 Seeking mentorship for **career growth and cloud job prep**  
-- ⚡ Fun fact: *There’s no free lunch — in ML or life*
+- ⚙️ Currently learning: **Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
+- ⚙️ Open to collaborations on **AI + Cloud + IoT projects**  
+- ⚙️ Seeking mentorship for **career growth and cloud job prep**  
+- ⚙️ Fun fact: *There’s no free lunch — in ML or life*
 
 ---
 
@@ -83,7 +83,7 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/evans-william-886287319/" target="_blank">
+<a href="https://www.linkedin.com/in/willseyyyy/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
 </a>
 <a href="https://www.instagram.com/willseyyyy/" target="_blank">
@@ -112,9 +112,9 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ### Featured Work & Writing
 
-- 👨‍💻 Projects: [GitHub Portfolio](https://github.com/willseyyyy)  
-- ✍️ Blog: [Wix Articles](https://www.wix.com/blog/what-is-a-blog)  
-- 📄 Resume: [Profile Summary](https://drive.google.com/file/d/12j_xtFpJEL6lPPvkxeTE_nhpQ4IWZSC-/view?usp=sharing) 
+- ⚙️ Projects: [GitHub Portfolio](https://github.com/willseyyyy)  
+- ⚙️ Blog: [Wix Articles](https://www.wix.com/blog/what-is-a-blog)  
+- ⚙️ Resume: [Profile Summary](https://drive.google.com/file/d/12j_xtFpJEL6lPPvkxeTE_nhpQ4IWZSC-/view?usp=sharing) 
 
 ---
 
@@ -124,5 +124,5 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 </p>
 
 ---
-*Building scalable systems. Exploring smart automation. Lifting both code and weights 💪.*
+*Building scalable systems. Exploring smart automation. Lifting both code and weights .*
 
