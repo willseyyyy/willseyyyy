@@ -1,11 +1,11 @@
-<h1 align="left">Hey there 👋, I'm William Evans</h1>
+<h1 align="left">Hello, I'm William Evans</h1>
 
 <p align="center">
   <img src="https://github.com/willseyyyy/willseyyyy/blob/78a6f447ea8ec5c2ca589ca41486d0312e6181e6/bhc.jpg" alt="William Evans Banner" width="800">
 </p>
 
 <h3 align="center">
-💻 Computer Science Undergrad (IoT) | ☁️ Aspiring Cloud Developer & Solutions Architect | 🤖 Gen AI & Agentic AI Enthusiast | 🏋️‍♂️ Fitness & Tech Driven
+Computer Science Undergrad (IoT) | Aspiring Cloud Developer & Solutions Architect | Gen AI & Agentic AI Enthusiast | Fitness & Tech Driven
 </h3>
 
 ---
@@ -18,16 +18,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I’m a **Computer Science Engineering undergrad** at *Shiv Nadar University, Chennai*, specializing in the **Internet of Things (IoT)**.  
 My interests lie in building **intelligent systems**, **scalable cloud applications**, and exploring the possibilities of **Generative & Agentic AI**.  
-Outside tech, I’m dedicated to **fitness and personal growth**, believing that discipline in one area strengthens all others. 💪
+Outside tech, I’m dedicated to **fitness and personal growth**, believing that discipline in one area strengthens all others. �
 
 - 🌱 Currently learning: **Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
 - 👯 Open to collaborations on **AI + Cloud + IoT projects**  
 - 🤝 Seeking mentorship for **career growth and cloud job prep**  
-- ⚡ Fun fact: *There’s no free lunch — in ML or life 😄*
+- ⚡ Fun fact: *There’s no free lunch — in ML or life*
 
 ---
 
@@ -91,7 +91,7 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ---
 
-### 🏆 GitHub Highlights
+### GitHub Highlights
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=willseyyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br>
@@ -101,23 +101,20 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ---
 
-### 💻 LeetCode Stats
+### LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/willseyyyy?theme=nord&font=Cabin&ext=contest)
 ---
 
-### 📚 Featured Work & Writing
+### Featured Work & Writing
 
 - 👨‍💻 Projects: [GitHub Portfolio](https://github.com/willseyyyy)  
 - ✍️ Blog: [Wix Articles](https://www.wix.com/blog/what-is-a-blog)  
-- 📄 Resume: [Profile Summary](https://hianime.sx/) *(replace with your resume link)*  
+- 📄 Resume: [Profile Summary](https://drive.google.com/file/d/12j_xtFpJEL6lPPvkxeTE_nhpQ4IWZSC-/view?usp=sharing) 
 
 ---
 
-### 🧠 Philosophy
-
-> “Discipline and curiosity are the twin engines of mastery — one fuels progress, the other direction.”
-
+### Philosophy
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpdGpvNXptNXZ2OGk2dG0yZDczaDc4c3VraTVnc2lvNnA1aDk2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJZdOtltegO76/giphy.gif" width="400" alt="Coding animation">
 </p>
