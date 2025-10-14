@@ -79,6 +79,7 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
+![snake gif](https://github.com/willseyyyy/willseyyyy/blob/output/github-snake-dark.svg)
 
 ### 🌐 Connect with Me
 
@@ -123,5 +124,5 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 </p>
 
 ---
-
 *Building scalable systems. Exploring smart automation. Lifting both code and weights 💪.*
+
