@@ -22,12 +22,12 @@ Computer Science Undergrad (IoT) | Aspiring Cloud Developer & Solutions Architec
 
 I’m a **Computer Science Engineering undergrad** at *Shiv Nadar University, Chennai*, specializing in the **Internet of Things (IoT)**.  
 My interests lie in building **intelligent systems**, **scalable cloud applications**, and exploring the possibilities of **Generative & Agentic AI**.  
-Outside tech, I’m dedicated to **fitness and personal growth**, believing that discipline in one area strengthens all others. �
+Outside tech, I’m dedicated to **fitness and personal growth**, believing that discipline in one area strengthens all others. 
 
 - ⚙️ Currently learning: **RAG, Agentic AI, Deep Learning, DevOps, and Cloud Services (AWS, Azure, GCP)**  
 - ⚙️ Open to collaborations on **AI + Cloud + IoT projects**  
 - ⚙️ Seeking mentorship for **career growth and cloud job prep**  
-- ⚙️ Fun fact: *There’s no free lunch — in ML or life*
+- ⚙️ Fun fact: *There’s no free lunch*
 
 ---
 
