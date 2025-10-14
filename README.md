@@ -102,7 +102,8 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 ---
 
 ### 💻 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/willseyyyy?theme=nord&font=&extension=null)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/willseyyyy?theme=nord&font=Cabin&ext=contest)
 ---
 
 ### 📚 Featured Work & Writing
