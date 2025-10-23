@@ -91,14 +91,16 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 ---
 
 ### GitHub Highlights
-
 <p align="left">
-  [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=willseyyyy&theme=tokyonight-duo)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=willseyyyy&theme=tokyonight-duo" alt="GitHub Streak" />
+  </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=willseyyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ### LeetCode Stats
