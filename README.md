@@ -1,10 +1,4 @@
 <h1 align="left">Hello, I'm William Evans</h1>
-
-<p align="center">
-  <img src="https://github.com/willseyyyy/willseyyyy/blob/78a6f447ea8ec5c2ca589ca41486d0312e6181e6/bhc.jpg" alt="William Evans Banner" width="800">
-</p>
-
-<h3 align="center">
 Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Cloud Developer & Solutions Architect | Fitness & Tech Driven
 </h3>
 
