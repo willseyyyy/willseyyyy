@@ -1,4 +1,5 @@
 <h1 align="left">Hello, I'm William Evans</h1>
+<h3 align="center">
 Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Cloud Developer & Solutions Architect | Fitness & Tech Driven
 </h3>
 
