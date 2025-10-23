@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Computer Science Undergrad (IoT) | Aspiring Cloud Developer & Solutions Architect | Gen AI & Agentic AI Enthusiast | Fitness & Tech Driven
+Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Cloud Developer & Solutions Architect | Fitness & Tech Driven
 </h3>
 
 ---
