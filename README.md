@@ -92,12 +92,13 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
 
 ### GitHub Highlights
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=willseyyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=willseyyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=willseyyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=willseyyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ### LeetCode Stats
