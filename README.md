@@ -5,7 +5,8 @@ Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Clou
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=willseyyyy&theme=onestar&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=willseyyyy&theme=onestar&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
