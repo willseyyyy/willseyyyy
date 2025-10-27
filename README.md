@@ -5,12 +5,9 @@ Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Clou
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=willseyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
-
-<a href="[![trophy](https://github-profile-trophy.vercel.app/?username=willseyyyy)](https://github.com/ryo-ma/github-profile-trophy)">
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=willseyyyy&theme=onestar&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </a>
-
 ---
 
 ### About Me
