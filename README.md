@@ -5,7 +5,11 @@ Computer Science Undergrad (IoT) |Gen AI & Agentic AI Enthusiast | Aspiring Clou
 
 ---
 
-[![trophy](https://github-trophies.vercel.app/?username=willseyyyy&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=willseyyyy&theme=dracula&no-frame=true&no-bg=true&row=1&column=9&title=Stars,Commits,Followers,Issues,Repositories,PullRequest,Contributions,MultiLanguage,Organizations)](https://github.com/lucthienphong1120/github-trophies)
+
+
+
+
 
 ---
 
