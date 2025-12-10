@@ -95,10 +95,20 @@ Outside tech, I’m dedicated to **fitness and personal growth**, believing that
   <a href="https://git.io/streak-stats">
     <img src="https://git-hub-streak-stats.vercel.app?user=willseyyyy&theme=tokyonight-duo" alt="GitHub Streak" />
   </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=willseyyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willseyyyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+ ## 📊 GitHub Stats  
+
+<p align="center">  
+  <a href="https://github.com/your-github-username">  
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+  </a>  
+</p>  
+
+## 🧑‍💻 Top Languages  
+
+<p align="center">  
+  <a href="https://github.com/your-github-username">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />  
+  </a>  
 </p>
 
 ---
